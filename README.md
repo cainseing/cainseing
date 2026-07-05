@@ -1,6 +1,7 @@
 ## Hello, I'm Cain 👋
-
 I‛m a software engineer based in Melbourne, I really enjoy coding, home automation and cyber security.
+
+For more about me and what I'm working on, check out [my portfolio](https://cainseing.com).
 
 ### Recent Projects
 * [Drop](https://getdrop.dev): Share secrets directly from your terminal | `Go` `NodeJS`
