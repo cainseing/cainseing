@@ -9,4 +9,4 @@ For more about me and what I'm working on, check out [my portfolio](https://cain
 * [HttpMqttBridge](https://github.com/cainseing/http-mqtt-bridge): A gateway that bridges the gap between web applications and MQTT brokers | `NodeJS`
 
 ### Stack
-`PHP` `Node.js` `TypeScript` `Go` `Python` `Docker`
+`Node.js` `TypeScript` `PHP` `Go` `Python` `Docker`
